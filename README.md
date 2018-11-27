@@ -1,1 +1,1 @@
-# labs
+# checkers with ai
