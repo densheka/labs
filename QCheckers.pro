@@ -10,19 +10,6 @@ SOURCES += main.cpp \
     checkersstate.cpp \
     checkersgame.cpp \
     settingsdialog.cpp \
-HEADERS += \
-    checkersgame.cpp \
-    checkerspicture.cpp \
-    checkersstate.cpp \
-    main.cpp \
-    mainwindow.cpp \
-    settingsdialog.cpp \
-    checkersgame.cpp \
-    checkerspicture.cpp \
-    checkersstate.cpp \
-    main.cpp \
-    mainwindow.cpp \
-    settingsdialog.cpp
 FORMS += \
     mainwindow.ui \
     settingsdialog.ui
